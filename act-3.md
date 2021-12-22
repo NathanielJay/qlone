@@ -27,17 +27,17 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   Now select the **Sketchfab** button on the top row of export options (see photo right and below).
     -   You’ll now be prompted to log on to your Sketchfab account.
     -   Your model is now on the Sketchfab website!
-
-    <img src="images/export and embed/3-a.png" alt="models menu" style="float:right;width:180px;">
-
 3.  View the Sketchfab website on a laptop:
     -   Log on to [Sketchfab](https://sketchfab.com){:target="_blank"}
+    
+    <img src="images/export and embed/3-a.png" alt="models menu" style="float:right;width:240px;">
+    
     -   On the Sketchfab website, click on the **blue face** in the top right corner, and then on the **Models** menu item.
     -   You should now see your model on the web page.
     -   Click on your model.
     -   Copy the URL of the web page which should look something like: [https://sketchfab.com/models/727efe0c48d343489d5eaa32d01bcb77](https://sketchfab.com/models/727efe0c48d343489d5eaa32d01bcb77){:target="_blank"}
 
-    <img src="images/export and embed/3-e.png" alt="embedded scan" style="float:right;width:180px;">
+    <img src="images/export and embed/3-e.png" alt="embedded scan" style="float:right;width:480px;">
 
 4.  Embed in a Wordpress website:
     -   Log on to your Wordpress.com website.
