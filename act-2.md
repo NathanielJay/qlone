@@ -48,12 +48,15 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   First, we need to get out of the gallery and into editing mode. Click on the gallery image of the object you scanned.
     -   Next click on the top button to the right of the photo of your scan (see image to the right). You are now in editing mode.
     -   Use two fingers on your screen to rotate around the model. You can also zoom in and out by doing a two-finger pinch.
-    
-    <img src="images/basics/5-d.png" alt="clean" style="float:right;width:240px;">
-    
     -   Click on the **Texture** button (1) on the top right of the screen, and then select the **Clean** (2) button to the left.
-    -   After you enter “clean” mode, use your finger to select the area that we will smooth out. <img src="images/basics/5-e.png" alt="smooth out" style="float:right;width:240px;">As you move your finger around the selected area will be highlighted in red (see to the right).
+    
+    <img src="images/basics/5-d.png" alt="clean" style="width:720px;">
+    
+    -   After you enter “clean” mode, use your finger to select the area that we will smooth out. As you move your finger around the selected area will be highlighted in red (see to the right).
     -   Next, click on the **Smooth** button on the right of the screen, and then drag the slider beside it to the left to indicate to Qlone how smooth you want the area to become.
+    
+    <img src="images/basics/5-e.png" alt="smooth out" style="width:720px;">
+    
 6.  Edit the scan to sculpt a surface of the model:
     
     <img src="images/basics/6-a.png" alt="sculpt" style="float:right;width:240px;">
