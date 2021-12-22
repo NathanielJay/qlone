@@ -9,13 +9,13 @@ parent: Workshop Activities
 
 1.  **AR Dome Keeps Disappearing:**
     
-    <img src="images/intro/1-a.png" alt="A R dome" style="float:right;width:240px;">
+    <img src="images/intro/1-a.png" alt="A R dome" style="float:right;width:300px;">
     
     -   If the AR dome disappears, one of the most common reasons for this is that the app cannot see at least three of the four corners of the checkered scanning mat.
     -   Move back from the scanning mat, and the AR dome should reappear once at least three corners are in view.
 2.  **Low-Quality Scans:**
     
-    <img src="images/intro/1-b.png" alt="scanning an object" style="float:right;width:240px;">
+    <img src="images/intro/1-b.png" alt="scanning an object" style="float:right;width:300px;">
     
     -   **Slow Down:** Consider slowing down how quickly you are moving around the object. Completely scan each layer before moving on to another layer.
     -   **Lighting:** Also consider the lighting where you are doing the scanning. Ideally, you’ll have two bright light sources pointed at the scanning area from opposite directions.
