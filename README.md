@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Introduction to 3D Scanning With Qlone
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/dsc-template/
