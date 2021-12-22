@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Qlone Quick Tips
+title: 1-Qlone Quick Tips
 nav_order: 2
 parent: Workshop Activities
 ---
