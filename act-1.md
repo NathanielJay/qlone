@@ -5,8 +5,6 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-<img src="images/intro/logo.png" alt="qlone logo" style="float:right;width:180px;">
-
 # 3D Scanning With Qlone Quick Tips
 
 1.  **AR Dome Keeps Disappearing:**
