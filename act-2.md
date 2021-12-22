@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-<img src="images/basics/logo.png" alt="activity image" style="float:right;width:320px;">
+<img src="images/basics/logo.png" alt="activity image" style="float:right;width:300px;">
 
 # In-Class Activity: The Basics
 
