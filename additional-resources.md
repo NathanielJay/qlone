@@ -5,8 +5,8 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
-
+## Qlone Resources
+- **COMING SOON**
 
 ## Acknowledgements
 
