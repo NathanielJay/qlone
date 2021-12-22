@@ -48,7 +48,7 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   First, we need to get out of the gallery and into editing mode. Click on the gallery image of the object you scanned.
     -   Next click on the top button to the right of the photo of your scan (see image to the right). You are now in editing mode.
     -   Use two fingers on your screen to rotate around the model. You can also zoom in and out by doing a two-finger pinch.
-    -   Click on the **Texture** button (1) on the top right of the screen, and then select the **Clean** (2) button to the left.
+    -   Click on the **Clean** button (1) on the top right of the screen, and then select the **Clean** (2) button to the left.
     
     <img src="images/basics/5-d.png" alt="clean" style="width:720px;">
     
