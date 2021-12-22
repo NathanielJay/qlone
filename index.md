@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="images/logo.png" style="float:right;width:320px;" alt="logo">
+<img src="images/logo.png" style="float:right;width:300px;" alt="logo">
 
 # Introduction to 3D Scanning With Qlone
 
