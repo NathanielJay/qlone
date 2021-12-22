@@ -58,16 +58,16 @@ If you have any questions or get stuck as you work through this in-class exercis
     <img src="images/basics/5-e.png" alt="smooth out" style="width:720px;">
     
 6.  Edit the scan to sculpt a surface of the model:
-    
-    <img src="images/basics/6-a.png" alt="sculpt" style="float:right;width:240px;">
-    
     -   Click on the **Clean** button (1) on the top right of the screen, and then select the **Sculpt** (2) button to the left.
+    
+    <img src="images/basics/6-a.png" alt="sculpt" style="width:720px;">
+    
     -   After you enter “sculpt” mode, use your finger to select the area that you’d like to smooth out. As you move your finger around, the selected area will be highlighted in red (see to the right).
-    
-    <img src="images/basics/6-b.png" alt="push and amplitude" style="float:right;width:240px;">
-    
     -   Slide the **Push-Pull** switch to the left (1) so that it is in the **Push** position.
     -   Select the **Amplitude** button (2), and then move the slider to push out the selected face as much or as little as you’d like.
+    
+    <img src="images/basics/6-b.png" alt="push and amplitude" style="width:720px;">
+    
     -   Press the large right arrow button at the bottom right of the screen to finalize the changes.
 7.  **Great job!** You now have a model that you can export to the Sketchfab website or MP4 format.
 
