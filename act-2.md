@@ -30,8 +30,8 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   You will need to make four circular scans of the object at different angles to clear all of the segments in the four rings of the AR dome.
 4.  Second supplementary scan. After you’ve finished the first scan you will probably notice that the scan is misshapen places. Let’s fix this:
     
-    <img src="images/basics/4-a1.png" alt="tape measure" style="float:right;width:240px;">
-    <img src="images/basics/4-a2.png" alt="menu" style="float:right;width:180px;">
+    <img src="images/basics/4-a2.png" alt="menu" style="float:right;height:180px;">
+    <img src="images/basics/4-a1.png" alt="tape measure" style="float:right;height:180px;">
     
     -   Change the orientation of your object on the VR mat (see right for an example).
     -   Click on the **White & Blue** button on the right of your Qlone screen (see the red arrow to the right).
