@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-<img src="images/export and embed/logo.png" alt="3d scan logo" style="float:right;width:180px;">
+<img src="images/export and embed/logo.png" alt="3d scan logo" style="float:right;width:300px;">
 
 # In-Class Activity: Export & Embed
 
@@ -15,14 +15,14 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   On your laptop (or phone), go [here](https://sketchfab.com){:target="_blank"} and click on the blue **Sign Up** button on the top left of your laptop screen.
     -   You can either create a Sketchfab account or use your Facebook or Google account to set it up.
 
-    <img src="images/export and embed/1-b.png" alt="export button" style="float:right;width:180px;">
+    <img src="images/export and embed/1-b.png" alt="export button" style="float:right;width:240px;">
 
 2.  If you are not already in Qlone, launch the app on your phone:
     -   You should now be in the Qlone gallery.
     -   Select the 3D scan that you would like to export.
     -   Press the **Export** button at the bottom right of the dialogue box (see photo to right).
     
-    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:180px;">
+    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:240px;">
     
     -   Now select the **Sketchfab** button on the top row of export options (see photo right and below).
     -   You’ll now be prompted to log on to your Sketchfab account.
