@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-<img src="images/basics/logo.png" alt="activity image" style="float:right;width:180px;">
+<img src="images/basics/logo.png" alt="activity image" style="float:right;width:320px;">
 
 # In-Class Activity: The Basics
 
@@ -15,14 +15,14 @@ If you have any questions or get stuck as you work through this in-class exercis
 2.  Pick up one of the provided checkered scanning mats (like the one pictured above right). If you are at home you can [download and print](http://bit.ly/2FV4mG9){:target="_blank"} your own scanning mat.
 3.  Scan a small object (less than 10 x 10 cm):
     
-    <img src="images/basics/3.png" alt="A R dome" style="float:right;width:180px;">
+    <img src="images/basics/3.png" alt="A R dome" style="float:right;width:240px;">
     
     -   Select a small object and place in the center of the scanning mat.  Note: To scan a larger object, you need a larger scanning mat which can be printed on a large format printer.
     -   Launch Qlone on your phone.
     -   Press the blue **“+”** button in the bottom right corner of the screen.
     -   You should now be seeing an Augmented Reality (AR) dome on top of the object you are going to scan.
     
-    <img src="images/basics/3-d.png" alt="disappearing A R dome" style="float:right;width:180px;">
+    <img src="images/basics/3-d.png" alt="disappearing A R dome" style="float:right;width:240px;">
     
     -   Start scanning by pressing the **Red Record** button in the top right of the screen.
     -   You now need to either slowly move your phone around the object or rotate the mat. Make sure that the AR dome progress indicator is capturing everything it needs to.
@@ -30,7 +30,7 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   You will need to make four circular scans of the object at different angles to clear all of the segments in the four rings of the AR dome.
 4.  Second supplementary scan. After you’ve finished the first scan you will probably notice that the scan is misshapen places. Let’s fix this:
     
-    <img src="images/basics/4-a1.png" alt="tape measure" style="float:right;width:180px;">
+    <img src="images/basics/4-a1.png" alt="tape measure" style="float:right;width:240px;">
     <img src="images/basics/4-a2.png" alt="menu" style="float:right;width:180px;">
     
     -   Change the orientation of your object on the VR mat (see right for an example).
