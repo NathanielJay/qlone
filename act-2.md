@@ -22,7 +22,7 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   Press the blue **“+”** button in the bottom right corner of the screen.
     -   You should now be seeing an Augmented Reality (AR) dome on top of the object you are going to scan.
     
-    <img src="images/basics/3-d" alt="disappearing A R dome" style="float:right;width:180px;">
+    <img src="images/basics/3-d.png" alt="disappearing A R dome" style="float:right;width:180px;">
     
     -   Start scanning by pressing the **Red Record** button in the top right of the screen.
     -   You now need to either slowly move your phone around the object or rotate the mat. Make sure that the AR dome progress indicator is capturing everything it needs to.
