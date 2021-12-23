@@ -21,7 +21,7 @@ If you have any questions or get stuck as you work through this in-class exercis
     
     <img src="images/export and embed/1-b.png" alt="export button" style="width:720px;">
     
-    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:240px;">
+    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:360px;">
     
     -   Now select the **Sketchfab** button on the top row of export options (see photo right and below).
     -   You’ll now be prompted to log on to your Sketchfab account.
@@ -35,12 +35,12 @@ If you have any questions or get stuck as you work through this in-class exercis
     -   You should now see your model on the web page.
     -   Click on your model.
     -   Copy the URL of the web page which should look something like: [https://sketchfab.com/models/727efe0c48d343489d5eaa32d01bcb77](https://sketchfab.com/models/727efe0c48d343489d5eaa32d01bcb77){:target="_blank"}
-
-    <img src="images/export and embed/3-e.png" alt="embedded scan" style="float:right;width:480px;">
-
 4.  Embed in a Wordpress website:
     -   Log on to your Wordpress.com website.
     -   Create a new blog post and paste the URL for your Sketchfab model into the blog post in the location you would like it to appear.
+    
+    <img src="images/export and embed/3-e.png" alt="embedded scan" style="width:720px;">
+    
     -   Publish your blog post!
 5.  **Great job!**
 
