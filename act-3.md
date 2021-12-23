@@ -29,7 +29,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 3.  View the Sketchfab website on a laptop:
     -   Log on to [Sketchfab](https://sketchfab.com){:target="_blank"}
     
-    <img src="images/export and embed/3-a.png" alt="models menu" style="float:right;width:180px;">
+    <img src="images/export and embed/3-a.png" alt="models menu" style="float:right;width:180px;margin-left:10px;">
     
     -   On the Sketchfab website, click on the **blue face** in the top right corner, and then on the **Models** menu item.
     -   You should now see your model on the web page.
