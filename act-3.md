@@ -21,7 +21,7 @@ If you have any questions or get stuck as you work through this in-class exercis
     
     <img src="images/export and embed/1-b.png" alt="export button" style="width:720px;">
     
-    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:400px;">
+    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:400px;margin-left:10px;">
     
     -   Now select the **Sketchfab** button on the top row of export options (see photo right and below).
     -   You’ll now be prompted to log on to your Sketchfab account.
@@ -29,7 +29,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 3.  View the Sketchfab website on a laptop:
     -   Log on to [Sketchfab](https://sketchfab.com){:target="_blank"}
     
-    <img src="images/export and embed/3-a.png" alt="models menu" style="float:right;width:220px;">
+    <img src="images/export and embed/3-a.png" alt="models menu" style="float:right;width:180px;">
     
     -   On the Sketchfab website, click on the **blue face** in the top right corner, and then on the **Models** menu item.
     -   You should now see your model on the web page.
