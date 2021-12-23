@@ -21,7 +21,7 @@ If you have any questions or get stuck as you work through this in-class exercis
     
     <img src="images/export and embed/1-b.png" alt="export button" style="width:720px;">
     
-    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:360px;">
+    <img src="images/export and embed/2-d.png" alt="export options" style="float:right;width:480px;">
     
     -   Now select the **Sketchfab** button on the top row of export options (see photo right and below).
     -   You’ll now be prompted to log on to your Sketchfab account.
