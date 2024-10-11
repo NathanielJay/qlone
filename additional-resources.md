@@ -8,7 +8,7 @@ nav_order: 10
 ## Qlone Resources
 - **COMING SOON**
 
-- [Photogramettry vs NeRFs vs LiDAR] (https://www.youtube.com/watch?v=9dyAj9gXIms) 
+- [Photogramettry vs NeRFs vs LiDAR] (https://www.youtube.com/watch?v=9dyAj9gXIms){:target="_blank"}
 
 ## Acknowledgements
 
