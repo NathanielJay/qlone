@@ -8,6 +8,8 @@ nav_order: 10
 ## Qlone Resources
 - **COMING SOON**
 
+- [Photogramettry vs NeRFs vs LiDAR] (https://www.youtube.com/watch?v=9dyAj9gXIms) 
+
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
