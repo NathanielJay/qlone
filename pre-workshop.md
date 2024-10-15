@@ -8,7 +8,7 @@ This workshop is primarily hands-on practice with Qlone in order to learn to use
 
 -   [Introduction to Qlone](https://www.youtube.com/watch?v=XkTaCOQ_OjI){:target="_blank"} (2 min)<br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XkTaCOQ_OjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--   [3D Scanning in a Museum Setting](https://www.youtube.com/watch?v=DrAjgWWdz68){:target="_blank"} (5 min)<be>
+-   [3D Scanning in a Museum Setting](https://www.youtube.com/watch?v=DrAjgWWdz68){:target="_blank"} (5 min)<br>
     <iframe width="560" height="315" src="https://www.youtube.com/watch?v=DrAjgWWdz68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
