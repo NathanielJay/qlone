@@ -9,6 +9,7 @@ nav_order: 10
 - **COMING SOON**
 
 - [Photogramettry vs NeRFs vs LiDAR](https://www.youtube.com/watch?v=9dyAj9gXIms){:target="_blank"}
+- [3D Scanning for Video Games](https://www.youtube.com/watch?v=BLLAEM4k8c4){:target="_blank"}
 
 ## Acknowledgements
 
