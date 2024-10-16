@@ -16,6 +16,8 @@ This activity will give you several options of software, apps, and web-based opt
 _PhotoCatch_ (available on recent Mac computers, 2022 or more recent)
 
 
+
+_Qlone_ (available for free on IOS devices)
 1.  If you haven’t already, please [download and install](https://www.qlone.pro){:target="_blank"} Qlone on your iPhone or Android phone.
 2.  Pick up one of the provided checkered scanning mats (like the one pictured above right). If you are at home you can [download and print](http://bit.ly/2FV4mG9){:target="_blank"} your own scanning mat.
 3.  Scan a small object (less than 10 x 10 cm):
