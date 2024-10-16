@@ -20,9 +20,8 @@ parent: Workshop Activities
 3. If you are using the Qlone app
 
 **AR Dome Keeps Disappearing:**  
-    
-    -   If the AR dome disappears, one of the most common reasons for this is that the app cannot see at least three of the four corners of the checkered scanning mat.
-    -   Move back from the scanning mat, and the AR dome should reappear once at least three corners are in view.
+- If the AR dome disappears, one of the most common reasons for this is that the app cannot see at least three of the four corners of the checkered scanning mat.
+- Move back from the scanning mat, and the AR dome should reappear once at least three corners are in view.
     
 **Second Scan with Different Orientation:** 
 - Another trick is to make sure that you do a second scan with a different orientation of the object immediately after the first scan. This is done by pressing the Blue Button on the right side of the screen after your first scan is complete.
