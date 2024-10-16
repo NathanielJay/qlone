@@ -13,6 +13,16 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 This activity will give you several options of software, apps, and web-based options for 3D scanning. Based on your device, choose the software that fits you best. 
 
+**Softwares that work best with the camera rotating around the object**
+
+_Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and available as web-based)
+
+1. Download the appropriate version of the app for your device, or follow [this link](https://www.kiriengine.app/web-version/Upload){:target="_blank"} to access the web-based portal of the tool.
+2. If you do not have an account, create one, or login. 
+
+
+**Softwares that work best when the object is rotated**
+
 _PhotoCatch_ (available on recent Mac computers, 2022 or more recent)
 
 
