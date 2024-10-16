@@ -17,7 +17,7 @@ parent: Workshop Activities
 
 2. **Shiny Objects:** Shiny objects don’t tend to scan well because they reflect light, and most 3D scanning software struggles with reflected light.
     
-3. If you are using the Qlone app
+3. _If you are using the Qlone app_
 
 **AR Dome Keeps Disappearing:**  
 - If the AR dome disappears, one of the most common reasons for this is that the app cannot see at least three of the four corners of the checkered scanning mat.
