@@ -11,6 +11,11 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Enjoy!
 
+This activity will give you several options of software, apps, and web-based options for 3D scanning. Based on your device, choose the software that fits you best. 
+
+_PhotoCatch_ (available on recent Mac computers, 2022 or more recent)
+
+
 1.  If you haven’t already, please [download and install](https://www.qlone.pro){:target="_blank"} Qlone on your iPhone or Android phone.
 2.  Pick up one of the provided checkered scanning mats (like the one pictured above right). If you are at home you can [download and print](http://bit.ly/2FV4mG9){:target="_blank"} your own scanning mat.
 3.  Scan a small object (less than 10 x 10 cm):
