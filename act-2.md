@@ -16,6 +16,7 @@ This activity will give you several options of software, apps, and web-based opt
 **Softwares that work best with the camera rotating around the object**
 
 _Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and available as web-based)
+This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
 
 1. Download the appropriate version of the app for your device, or follow [this link](https://www.kiriengine.app/web-version/Upload){:target="_blank"} to access the web-based portal of the tool.
 2. If you do not have an account, create one, or login. 
@@ -28,6 +29,8 @@ _PhotoCatch_ (available on recent Mac computers, 2022 or more recent)
 
 
 _Qlone_ (available for free on IOS devices)
+This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan by allowing a supplementary scan. 
+
 1.  If you haven’t already, please [download and install](https://www.qlone.pro){:target="_blank"} Qlone on your iPhone or Android phone.
 2.  Pick up one of the provided checkered scanning mats (like the one pictured above right). If you are at home you can [download and print](http://bit.ly/2FV4mG9){:target="_blank"} your own scanning mat.
 3.  Scan a small object (less than 10 x 10 cm):
