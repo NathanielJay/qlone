@@ -19,8 +19,15 @@ _Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and av
 
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
 
-1. Download the appropriate version of the app for your device, or follow [this link](https://www.kiriengine.app/web-version/Upload){:target="_blank"} to access the web-based portal of the tool. Create an account or login. 
+1. Download the appropriate version of the app for your device, or follow [this link](https://www.kiriengine.app/web-version/Upload){:target="_blank"} to access the web-based portal of the tool. Create an account or log in. 
 2. 
+
+_Maker World AI Scanner_ (free web-based platform)
+
+1. Take a high-quality video of your object, you should rotate around your object at least 3 times, at different angles. Make sure to complete the rotation fully before changing the camera angle. 
+2. Open [Maker World AI Scanner](https://makerworld.com/en/makerlab/ai-scanner){:target="_blank"}. You do not need to an account to use this platform.
+3. Upload the video of your object using drag-and-drop or the import button.
+4. 
 
 
 **Softwares that work best when the object is rotated**
