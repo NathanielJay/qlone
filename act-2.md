@@ -42,9 +42,6 @@ How to use Kiri
 <br>
 
 
-
-
-
 _Maker World AI Scanner_ (free web-based platform)
 
 {::options parse_block_html='true' /}
@@ -66,14 +63,25 @@ To rotate the object you want to scan, we recommend that you use a turn table if
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
 </details>
 
-_PhotoCatch_ (available on recent Mac computers, 2022 or more recent)
+_PhotoCatch_ (available on some iPhones and recent Mac computers in the Apple Silicon Series)
+
+This software is the quickest processing option listed in this document.
 
 {::options parse_block_html='true' /}
 <details>
 <summary>
 How to use PhotoCatch
 </summary>
-Instructions will go here
+
+1. Photocatch allows both videos and photos to be processed, and can be taken directly on the application or uploaded from your camera roll. Choose the method that works best for you and your equipment. 
+2. To start, click on **Create a 3D Model**, you can then choose to use a video or photos, this will then prompt you to either take the photos/video or upload your media content from your gallery. Review the photos or video, if you are satisfied, click on **Looks good**.
+- If you choose the video option, you have the option of choosing the frame interval. The frame interval is the quantity of photos that are extracted from 1 second of your video, a larger frame interval will result in more frames.
+- Having more frames will increase the processing time, but will also likely improve the final quality of your 3D model. **Aim to have at least 100 frames.**
+3. Choose your model quality, a higher quality produces more details and larger textures, but will take more time to process. 
+4. Your model will appear on the home page, once processing is completed, click on your project and download as an .obj or .stl if
+
+
+    
 </details>
 
 
