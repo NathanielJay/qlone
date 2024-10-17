@@ -20,10 +20,20 @@ To increase your chances of successful scans with these tools, we recommend that
 Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
 
 _Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and available as web-based)
-
- <button onclick="toggle(' This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.')">Show/Hide Animation</button>
     
-    This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
+{::options parse_block_html='true' /}
+<details>
+<summary>
+Why no quotations for library()?
+</summary>
+This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
+</details>
+
+{::options parse_block_html='false'/}
+
+<br>
+
+This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
 
 1. Download the appropriate version of the app for your device, or open the [web-based version of Kiri](https://www.kiriengine.app/web-version/Upload){:target="_blank"}. Create an account or log in. 
 2. 
