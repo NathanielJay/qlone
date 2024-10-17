@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="images/intro/logo.png" style="float:right;width:300px;" alt="logo">
+<img src="images/basics/turn.png" style="float:right;width:300px;" alt="cellphone scanning with a turntable">
 
 # Introduction to 3D Scanning
 
