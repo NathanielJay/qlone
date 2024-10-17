@@ -23,8 +23,6 @@ _Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and av
 
  <button onclick="toggle(' This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.')">Show/Hide Animation</button>
     
-    </div>
-    
     This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
 
 1. Download the appropriate version of the app for your device, or open the [web-based version of Kiri](https://www.kiriengine.app/web-version/Upload){:target="_blank"}. Create an account or log in. 
