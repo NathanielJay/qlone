@@ -15,6 +15,10 @@ This activity will give you several options of software, apps, and web-based opt
 
 **Softwares that work best with the camera rotating around the object**
 
+To increase your chances of successful scans with these tools, we recommend that you take photos and videos in a 360° motion around your object 3 times or more. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. In total, you should have about 100 photos of your object from all angles.  If taking a video, ensure that you rotate slowly around the object. 
+
+Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
+
 _Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and available as web-based)
 
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
@@ -25,7 +29,7 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
 _Maker World AI Scanner_ (free web-based platform)
 
 1. Take a high-quality video of your object, you should rotate around your object at least 3 times, at different angles. Make sure to complete the rotation fully before changing the camera angle. 
-2. Open [Maker World AI Scanner](https://makerworld.com/en/makerlab/ai-scanner){:target="_blank"}. You do not need to an account to use this platform.
+2. Open [Maker World AI Scanner](https://makerworld.com/en/makerlab/ai-scanner){:target="_blank"}. You do not need an account to use this platform.
 3. Upload the video of your object using drag-and-drop or the import button.
 4. 
 
@@ -36,6 +40,7 @@ To increase your chances of successful scans with these tools, we recommend that
 
 To rotate the object you want to scan, we recommend that you use a turn table if available. This allows you to rotate the object without having to touch it, this is very important since most at-home 3D scanning technology requires the object to stay completely still to be successful. If you do not have access to a turntable, or if you need to see more surface area of your object, you can prop your object on an elevated surface (such as a glue stick or toilet paper roll). **Make sure to secure your object to your glue stick with tape or sticky tack, as your object must stay in the same position for the duration of your scan.** Rotate the glue stick to capture your object, making sure that your hand is not visible in the photos or the video. 
 
+Take your time during the scanning phase, as this will highly impact how successful your scan is. We recommend you take about 100 high-quality photos of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
 
 _PhotoCatch_ (available on recent Mac computers, 2022 or more recent)
 
