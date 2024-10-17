@@ -19,7 +19,7 @@ To increase your chances of successful scans with these tools, we recommend that
 
 Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
 
-_Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and available as web-based)
+**_Kiri Engine: Scanner 3D_** (free for download for IOS and Android devices, and available as web-based)
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
     
 {::options parse_block_html='true' /}
@@ -42,7 +42,7 @@ How to use Kiri
 <br>
 
 
-_Maker World AI Scanner_ (free web-based platform)
+**_Maker World AI Scanner_** (free web-based platform)
 
 {::options parse_block_html='true' /}
 <details>
@@ -70,7 +70,7 @@ To rotate the object you want to scan, we recommend that you use a turn table if
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
 </details>
 
-_PhotoCatch_ (available on some iPhones and recent Mac computers in the Apple Silicon Series)
+**_PhotoCatch_** (available on some iPhones and recent Mac computers in the Apple Silicon Series)
 
 This software is the quickest processing option listed in this document.
 
@@ -92,7 +92,7 @@ How to use PhotoCatch
 </details>
 
 
-_Qlone_ (available for free on IOS devices)
+**_Qlone_** (available for free on IOS devices)
 
 {::options parse_block_html='true' /}
 <details>
