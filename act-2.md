@@ -24,27 +24,33 @@ _Kiri Engine: Scanner 3D_ (free for download for IOS and Android devices, and av
 {::options parse_block_html='true' /}
 <details>
 <summary>
-Why no quotations for library()?
+How to use Kiri
 </summary>
+    
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
+
+1. Download the appropriate version of the app for your device, or open the [web-based version of Kiri](https://www.kiriengine.app/web-version/Upload){:target="_blank"}. Create an account or log in. 
 </details>
 
 {::options parse_block_html='false'/}
 
 <br>
 
-This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
 
-1. Download the appropriate version of the app for your device, or open the [web-based version of Kiri](https://www.kiriengine.app/web-version/Upload){:target="_blank"}. Create an account or log in. 
-2. 
+
+
 
 _Maker World AI Scanner_ (free web-based platform)
+
+{::options parse_block_html='true' /}
+<details>
+<summary>
+How to use Maker World AI Scanner
+</summary>
 
 1. Take a high-quality video of your object, you should rotate around your object at least 3 times, at different angles. Make sure to complete the rotation fully before changing the camera angle. 
 2. Open [Maker World AI Scanner](https://makerworld.com/en/makerlab/ai-scanner){:target="_blank"}. You do not need an account to use this platform.
 3. Upload the video of your object using drag-and-drop or the import button.
-4. 
-
 
 **Softwares that work best when the object is rotated**
 
@@ -53,12 +59,26 @@ To increase your chances of successful scans with these tools, we recommend that
 To rotate the object you want to scan, we recommend that you use a turn table if available. This allows you to rotate the object without having to touch it, this is very important since most at-home 3D scanning technology requires the object to stay completely still to be successful. If you do not have access to a turntable, or if you need to see more surface area of your object, you can prop your object on an elevated surface (such as a glue stick or toilet paper roll). **Make sure to secure your object to your glue stick with tape or sticky tack, as your object must stay in the same position for the duration of your scan.** Rotate the glue stick to capture your object, making sure that your hand is not visible in the photos or the video. 
 
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
+</details>
 
 _PhotoCatch_ (available on recent Mac computers, 2022 or more recent)
 
+{::options parse_block_html='true' /}
+<details>
+<summary>
+How to use PhotoCatch
+</summary>
+Instructions will go here
+</details>
 
 
 _Qlone_ (available for free on IOS devices)
+
+{::options parse_block_html='true' /}
+<details>
+<summary>
+How to use Qlone
+</summary>
 
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan by allowing a supplementary scan. 
 
@@ -115,11 +135,15 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
     
     -   After you enter “sculpt” mode, use your finger to select the area that you’d like to smooth out. As you move your finger around, the selected area will be highlighted in red (see to the right).
     -   Slide the **Push-Pull** switch to the left (1) so that it is in the **Push** position.
+  
+ 
     -   Select the **Amplitude** button (2), and then move the slider to push out the selected face as much or as little as you’d like.
     
     <img src="images/basics/6-b.png" alt="push and amplitude" style="width:720px;">
     
     -   Press the large right arrow button at the bottom right of the screen to finalize the changes.
 7.  **Great job!** You now have a model that you can export to the Sketchfab website or MP4 format.
+
+</details>
 
 [NEXT STEP: Export and Embed](act-3.html){: .btn .btn-blue }
