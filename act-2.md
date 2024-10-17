@@ -53,6 +53,13 @@ How to use Maker World AI Scanner
 1. Take a high-quality video of your object, you should rotate around your object at least 3 times, at different angles. Make sure to complete the rotation fully before changing the camera angle. 
 2. Open [Maker World AI Scanner](https://makerworld.com/en/makerlab/ai-scanner){:target="_blank"}. You do not need an account to use this platform.
 3. Upload the video of your object using drag-and-drop or the import button.
+4. Select either **General Mode** or **Portrait Mode** based on the object you are scanning. and Click on **Next Step**.
+5. The software will then try to identify the target object based on the first frame of your video.
+   - If the software chose the wrong object, click on **Remove mask** and click on the areas that are not part of your object, light red dots will appear.
+   - Then click on **Add mask** and click the object you want scanned. You might need to select multiple areas of your model. Light green dots will appear and a blue outline will be created around the object.
+   - Once satisfied, click on **Create Model**.
+6. Your model will now be sent to the Queue for processing. An estimated wait time will be displayed.
+7. Once completed, your model will be available to see and download. Download as an .stl file if you want to have it 3D printed.
 
 **Softwares that work best when the object is rotated**
 
@@ -73,14 +80,14 @@ This software is the quickest processing option listed in this document.
 How to use PhotoCatch
 </summary>
 
-1. Photocatch allows both videos and photos to be processed, and can be taken directly on the application or uploaded from your camera roll. Choose the method that works best for you and your equipment. 
+1. Photocatch allows both videos and photos to be processed and can be taken directly on the application or uploaded from your camera roll. Choose the method that works best for you and your equipment. 
 2. To start, click on **Create a 3D Model**, you can then choose to use a video or photos, this will then prompt you to either take the photos/video or upload your media content from your gallery. Review the photos or video, if you are satisfied, click on **Looks good**.
-- If you choose the video option, you have the option of choosing the frame interval. The frame interval is the quantity of photos that are extracted from 1 second of your video, a larger frame interval will result in more frames.
+- If you choose the video option, you have the option of choosing the frame interval. The frame interval is the number of photos that are extracted from 1 second of your video, a larger frame interval will result in more frames.
 - Having more frames will increase the processing time, but will also likely improve the final quality of your 3D model. **Aim to have at least 100 frames.**
-3. Choose your model quality, a higher quality produces more details and larger textures, but will take more time to process. 
-4. Your model will appear on the home page, once processing is completed, click on your project and download as an .obj or .stl if
-
-
+3. Choose your model quality, a higher quality produces more details and larger textures but will take more time to process. 
+4. Your model will appear on the home page.
+- On the application, multiple projects can be processed simultaneously, while on the Mac platform, users are limited to one model at a time using the free version. However, we have found that the Mac platform often creates higher-quality results in less time. 
+- Once processing is completed, click on your project and using the **share button** download the file as an .obj if you want to 3D print. 
     
 </details>
 
