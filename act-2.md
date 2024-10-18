@@ -3,6 +3,7 @@ layout: default
 title: 2-The Basics
 nav_order: 3
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/basics/logo.png" alt="activity image" style="float:right;width:300px;">
@@ -35,7 +36,11 @@ How to use Kiri
 5. Choose your export type based on your needs, .stl is accepted by our online submission form for 3D printing.
 6. Click on **Create 3D model now**. This will start the processing of your 3D scan, once processing is completed, your 3D model will be available to see and manipulate.
    - If the result differs from what you were expecting, refer to the tips and tricks for 3D scanning in activity 1.
-<img src="images/kiri-crop.gif" alt="Cropping">
+
+     <button onclick="toggle('gif1')">Show/Hide Animation</button>
+     <div id="gif1">
+     <img src="images/kiri-crop.gif">
+     </div>
 </details>
 
 {::options parse_block_html='false'/}
