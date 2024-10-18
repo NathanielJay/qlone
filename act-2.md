@@ -223,4 +223,4 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
     }
 </script>
 
-[NEXT STEP: Export and Embed](act-3.html){: .btn .btn-blue }
+[NEXT STEP: Post-Processing Modifications](act-3.html){: .btn .btn-blue }
