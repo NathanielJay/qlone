@@ -15,6 +15,8 @@ nav_order: 10
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- **MORE ACKNOWLEDGEMENTS HERE**
+- Cameron Chevrier (Activities, 1, 2, 3)
+- Oliver Kerr (Activity 3)
+- Brittany Johnson (Images and gifs)
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
