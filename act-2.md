@@ -20,7 +20,7 @@ To increase your chances of successful scans with these tools, we recommend that
 
 Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-     <div id="gif2">
+     <div id="gif1">
      <img src="images/rotation.gif">
      </div>
 
