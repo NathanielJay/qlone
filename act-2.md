@@ -54,6 +54,17 @@ How to use Kiri
 
 <br>
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 **_Maker World AI Scanner_** (free web-based platform)
 
