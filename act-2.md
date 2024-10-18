@@ -24,7 +24,6 @@ Some platforms use the background in your photos to help build the 3D model, it 
      <div id="gif1">
      <img src="images/rotation.gif">
      </div>
-</details>
 
 **_Kiri Engine: Scanner 3D_** (free for download for IOS and Android devices, and available as web-based)
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
