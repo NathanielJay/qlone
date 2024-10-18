@@ -34,7 +34,8 @@ How to use Kiri
 4. If you included photos of the bottom of your object in your photos, by changing the orientation of the object during the scan, select **Auto Object Masking**.
 5. Choose your export type based on your needs, .stl is accepted by our online submission form for 3D printing.
 6. Click on **Create 3D model now**. This will start the processing of your 3D scan, once processing is completed, your 3D model will be available to see and manipulate.
-   - If the result differs from what you were expecting, refer to the tips and tricks for 3D scanning in activity 1. 
+   - If the result differs from what you were expecting, refer to the tips and tricks for 3D scanning in activity 1.
+<img src="images/kiri-crop.mp4" alt="Cropping">
 </details>
 
 {::options parse_block_html='false'/}
