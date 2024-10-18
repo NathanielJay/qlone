@@ -20,6 +20,12 @@ To increase your chances of successful scans with these tools, we recommend that
 
 Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
 
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
+     <div id="gif1">
+     <img src="images/rotation.gif">
+     </div>
+</details>
+
 **_Kiri Engine: Scanner 3D_** (free for download for IOS and Android devices, and available as web-based)
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
     
@@ -40,8 +46,8 @@ How to use Kiri
 8. Next the reset bar will appear at the bottom of the screen. Rotate it by sliding the curser to the left side and rotate it approximately 175 degrees.
 9. Then do the move the cursor to the left side for the boundary setting.
 10. Finally save your edits, by clicking **save edit** and don't forget to select the **fill holes** toggle.
-     <button onclick="toggle('gif1')">Show/Hide Animation</button>
-     <div id="gif1">
+     <button onclick="toggle('gif2')">Show/Hide Animation</button>
+     <div id="gif2">
      <img src="images/kuri-crop.gif">
      </div>
 </details>
