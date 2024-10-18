@@ -70,6 +70,7 @@ How to use Maker World AI Scanner
 6. Your model will now be sent to the Queue for processing. An estimated wait time will be displayed.
 7. Once completed, your model will be available to see and download. Download as an .stl file if you want to have it 3D printed.
 
+</details>
 **Softwares that work best when the object is rotated**
 
 To increase your chances of successful scans with these tools, we recommend that you **take your photos or video using a high-contrast, solid background.** If needed, you can borrow the DSC's lightbox to scan your objects. 
@@ -77,7 +78,6 @@ To increase your chances of successful scans with these tools, we recommend that
 To rotate the object you want to scan, we recommend that you use a turn table if available. This allows you to rotate the object without having to touch it, this is very important since most at-home 3D scanning technology requires the object to stay completely still to be successful. If you do not have access to a turntable, or if you need to see more surface area of your object, you can prop your object on an elevated surface (such as a glue stick or toilet paper roll). **Make sure to secure your object to your glue stick with tape or sticky tack, as your object must stay in the same position for the duration of your scan.** Rotate the glue stick to capture your object, making sure that your hand is not visible in the photos or the video. 
 
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
-</details>
 
 **_PhotoCatch_** (available on some iPhones and recent Mac computers in the Apple Silicon Series)
 
