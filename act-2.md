@@ -172,4 +172,16 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
 
 </details>
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [NEXT STEP: Export and Embed](act-3.html){: .btn .btn-blue }
