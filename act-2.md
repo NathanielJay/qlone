@@ -39,7 +39,7 @@ How to use Kiri
 
      <button onclick="toggle('gif1')">Show/Hide Animation</button>
      <div id="gif1">
-     <img src="images/kiri-crop.gif">
+     <img src="images/kuri-crop.gif">
      </div>
 </details>
 
