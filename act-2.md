@@ -85,7 +85,6 @@ Take your time during the scanning phase, as this will highly impact how success
     <img src="images/spin-cat.gif">
 </div>
       <script>  
-
     function toggle(input) {
         var x = document.getElementById(input);
         if (x.style.display === "none") {
