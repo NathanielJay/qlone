@@ -7,6 +7,18 @@ parent: Workshop Activities
 
 <img src="images/basics/logo.png" alt="activity image" style="float:right;width:300px;">
 
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 # In-Class Activity: The Basics
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Enjoy!
