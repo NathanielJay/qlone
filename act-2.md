@@ -7,6 +7,8 @@ parent: Workshop Activities
 
 <img src="images/basics/logo.png" alt="activity image" style="float:right;width:300px;">
 
+</details>
+
 <script>  
 
     function toggle(input) {
