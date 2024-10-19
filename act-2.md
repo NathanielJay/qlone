@@ -158,7 +158,20 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
     -   Next, click on the **Smooth** button on the right of the screen, and then drag the slider beside it to the left to indicate to Qlone how smooth you want the area to become.
     
     <img src="images/basics/5-e.png" alt="smooth out" style="width:720px;">
-    
+
+</details>
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 6.  Edit the scan to sculpt a surface of the model:
     -   Click on the **Clean** button (1) on the top right of the screen, and then select the **Sculpt** (2) button to the left.
     
