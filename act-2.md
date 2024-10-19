@@ -83,7 +83,8 @@ Take your time during the scanning phase, as this will highly impact how success
      <div id="gif3">
      <img src="images/spin-cat.gif">
      </div>
-      <script>  
+    
+<script>  
     
     function toggle(input) {
         var x = document.getElementById(input);
