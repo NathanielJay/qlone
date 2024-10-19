@@ -30,7 +30,10 @@ This activity will give you several options of software, apps, and web-based opt
 **Softwares that work best with the camera rotating around the object**
 
 To increase your chances of successful scans with these tools, we recommend that you take photos and videos in a 360° motion around your object **3 times** or more. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. **In total, you should have about 100 photos of your object from all angles**.  If taking a video, ensure that you rotate slowly around the object. 
-
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+     <div id="gif1">
+     <img src="images/rotation.gif">
+     </div>
 Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
 
 **_Kiri Engine: Scanner 3D_** (free for download for IOS and Android devices, and available as web-based)
