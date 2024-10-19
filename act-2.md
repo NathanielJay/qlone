@@ -74,28 +74,16 @@ How to use Maker World AI Scanner
 To increase your chances of successful scans with these tools, we recommend that you **take your photos or video using a high-contrast, solid background.** If needed, you can borrow the DSC's lightbox to scan your objects. 
 
 To rotate the object you want to scan, we recommend that you use a turn table if available. This allows you to rotate the object without having to touch it, this is very important since most at-home 3D scanning technology requires the object to stay completely still to be successful. If you do not have access to a turntable, or if you need to see more surface area of your object, you can prop your object on an elevated surface (such as a glue stick or toilet paper roll). **Make sure to secure your object to your glue stick with tape or sticky tack, as your object must stay in the same position for the duration of your scan.** Rotate the glue stick to capture your object, making sure that your hand is not visible in the photos or the video. 
-   <button onclick="toggle('gif3')">Show/Hide Animation</button>
-     <div id="gif3">
+   <button onclick="toggle('gif1')">Show/Hide Animation</button>
+     <div id="gif1">
      <img src="images/glue-cat.gif">
      </div>
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
-     <div id="gif3">
+  <button onclick="toggle('gif2')">Show/Hide Animation</button>
+     <div id="gif2">
      <img src="images/spin-cat.gif">
      </div>
     
-<script>  
-    
-    function toggle(input) {
-        var x = document.getElementById(input);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
-
 **_PhotoCatch_** (available on some iPhones and recent Mac computers in the Apple Silicon Series)
 
 This software is the quickest processing option listed in this document.
@@ -114,9 +102,6 @@ How to use PhotoCatch
 4. Your model will appear on the home page.
 - On the application, multiple projects can be processed simultaneously, while on the Mac platform, users are limited to one model at a time using the free version. However, we have found that the Mac platform often creates higher-quality results in less time. 
 - Once processing is completed, click on your project and using the **share button** download the file as an .obj if you want to 3D print. 
-    
-</details>
-
 
 **_Qlone_** (available for free on IOS devices)
 
