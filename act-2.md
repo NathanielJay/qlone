@@ -84,7 +84,17 @@ Take your time during the scanning phase, as this will highly impact how success
     <div id="gif4">
     <img src="images/spin-cat.gif">
 </div>
-      
+      <script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 **_PhotoCatch_** (available on some iPhones and recent Mac computers in the Apple Silicon Series)
 
 This software is the quickest processing option listed in this document.
