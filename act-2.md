@@ -75,12 +75,12 @@ To increase your chances of successful scans with these tools, we recommend that
 
 To rotate the object you want to scan, we recommend that you use a turn table if available. This allows you to rotate the object without having to touch it, this is very important since most at-home 3D scanning technology requires the object to stay completely still to be successful. If you do not have access to a turntable, or if you need to see more surface area of your object, you can prop your object on an elevated surface (such as a glue stick or toilet paper roll). **Make sure to secure your object to your glue stick with tape or sticky tack, as your object must stay in the same position for the duration of your scan.** Rotate the glue stick to capture your object, making sure that your hand is not visible in the photos or the video. 
    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-     <div id="gif1">
+     <div id="gif5">
      <img src="images/glue-cat.gif">
      </div>
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
   <button onclick="toggle('gif2')">Show/Hide Animation</button>
-     <div id="gif2">
+     <div id="gif6">
      <img src="images/spin-cat.gif">
      </div>
     
@@ -218,5 +218,6 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
         }
     }
 </script>
+
 
 [NEXT STEP: Post-Processing Modifications](act-3.html){: .btn .btn-blue }
