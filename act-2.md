@@ -3,7 +3,6 @@ layout: default
 title: 2-The Basics
 nav_order: 3
 parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/basics/logo.png" alt="activity image" style="float:right;width:300px;">
