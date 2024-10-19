@@ -39,7 +39,7 @@ How to use Kiri
 8. Next the reset bar will appear at the bottom of the screen. Rotate it by sliding the curser to the left side and rotate it approximately 175 degrees.
 9. Then do the move the cursor to the left side for the boundary setting.
 10. Finally save your edits, by clicking **save edit** and don't forget to select the **fill holes** toggle.
-     <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
      <div id="gif2">
      <img src="images/kuri-crop.gif">
      </div>
@@ -74,17 +74,17 @@ How to use Maker World AI Scanner
 To increase your chances of successful scans with these tools, we recommend that you **take your photos or video using a high-contrast, solid background.** If needed, you can borrow the DSC's lightbox to scan your objects. 
 
 To rotate the object you want to scan, we recommend that you use a turn table if available. This allows you to rotate the object without having to touch it, this is very important since most at-home 3D scanning technology requires the object to stay completely still to be successful. If you do not have access to a turntable, or if you need to see more surface area of your object, you can prop your object on an elevated surface (such as a glue stick or toilet paper roll). **Make sure to secure your object to your glue stick with tape or sticky tack, as your object must stay in the same position for the duration of your scan.** Rotate the glue stick to capture your object, making sure that your hand is not visible in the photos or the video. 
-
-<button onclick="toggle('gif3')">Show / Hide Animation </button>
-    <div id="gif3">
-    <img src="images/glue-cat.gif">
-    </div>
+   <button onclick="toggle('gif3')">Show/Hide Animation</button>
+     <div id="gif3">
+     <img src="images/glue-cat.gif">
+     </div>
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object. 
-<button onclick="toggle('gif4')">Show / Hide Animation </button>
-    <div id="gif4">
-    <img src="images/spin-cat.gif">
-</div>
+  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+     <div id="gif3">
+     <img src="images/spin-cat.gif">
+     </div>
       <script>  
+    
     function toggle(input) {
         var x = document.getElementById(input);
         if (x.style.display === "none") {
@@ -94,6 +94,7 @@ Take your time during the scanning phase, as this will highly impact how success
         }
     }
 </script>
+
 **_PhotoCatch_** (available on some iPhones and recent Mac computers in the Apple Silicon Series)
 
 This software is the quickest processing option listed in this document.
