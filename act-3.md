@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Export & Embed
+title: 3- Post-processing Fixing
 nav_order: 4
 parent: Workshop Activities
 ---
