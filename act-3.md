@@ -19,8 +19,9 @@ You can obtain a free license to use Fusion 360 for personal use. Go to the Auto
 
 3. Let's now import your model as a Mesh
   - From the upper toolbar, select the Mesh category to see the relevant tools.
+   <img src="images/act3-1.png" alt="toolbar" style="width:300px">
   - Click the **Insert Mesh** tool (circled) to bring your design into Fusion.  The **Select from my computer** tab will open your file explorer. Navigate to the relevant file and open it. It will appear in the Fusion workspace. From the popup menu on the right of the screen click **OK**. 
-
+    <img src="images/act3-2.png" alt="mesh tool" style="width:300px">
 - The example object was scanned while propped up on a glue stick. Some of the stick was included in the scan and now needs to be trimmed off from the main object. 
 
 4. Remove excess elements in your file
