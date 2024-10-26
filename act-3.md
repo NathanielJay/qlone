@@ -26,23 +26,23 @@ You can obtain a free license to use Fusion 360 for personal use. Go to the Auto
     <img src="images/act3-3.png" alt="example" style="width:500px">
 4. Remove excess elements in your file
 - Use the movement axes to position the object mesh vertically. Select **Plane Cut** from the toolbar. **Click your mesh** to select it as the object to be cut. 
-    <img src="images/act3-4.png" alt="movement axe">
+    <img src="images/act 3-4.png" alt="movement axe" style="width:500px">
 - Three planes will appear. If your object is oriented vertically, select the horizontal plane. A large disc will appear at the midpoint of your object. From the Plane Cut menu on the right **click Flip** to invert which half of the mesh is being removed.
-<img src="images/act3-5.png" alt="flip sign" style="width:500px">
-<img src="images/act3-6.png" alt="image flipped" style="width:500px">
+<img src="images/act 3-5.png" alt="flip sign" style="width:500px">
+<img src="images/act 3-6.png" alt="image flipped" style="width:500px">
 - Adjust the height and angle of the slicing tool to your satisfaction. Rotate your view of the object using **Shift + holding down the scroll wheel** to ensure the slicing isn’t removing too much material.
-    <img src="images/act3-7.png" alt="rotated view" style="width:500px">
+    <img src="images/act 3-7.png" alt="rotated view" style="width:500px">
 5. Close a hole in your model 
-- From the **tool menu** on the right, **change the Fill Type to Uniform**. This will close the gap created by trimming and allow the mesh to be converted to a solid object. **Select OK** to complete the trim. Rotate the object to see the filled gap. 
+- From the **tool menu** on the right, **change the Fill Type to Uniform**. This will close the gap created by trimming and allow the mesh to be converted to a solid object. **Select OK** to complete the trim. Rotate the object to see the filled gap.<br>
     <img src="images/act3-8.png" alt="step 5 trimming" style="width:500px">
 6. Convert your mesh into a solid
-- The object is now ready to be converted to a solid. From the main toolbar, click the dropdown menu on the **Modify tab**. This will display the complete list of options. **Select Convert mesh**. Leave the default settings as they appear in the menu. Ensure your mesh is selected as the object to be modified. 
+- The object is now ready to be converted to a solid. From the main toolbar, click the dropdown menu on the **Modify tab**. This will display the complete list of options. **Select Convert mesh**. Leave the default settings as they appear in the menu. Ensure your mesh is selected as the object to be modified.<br>
     <img src="images/act3-9.png" alt="convert mesh" style="width:500px">
-        <img src="images/act3-10.png" alt="convert mesh tool" style="width:500px">
+        <img src="images/act3-10.png" alt="convert mesh tool" style="width:200px">
 - Select ‘OK’ to run the conversion. Your object now exists as a solid within Fusion.
 
 7. Export your file
-- Further edits can be made through the Solid Modify menu as necessary. When you are ready to save the object as a file, ensure it is selected. From the topmost menu, open the File dropdown and **select Export**. 
+- Further edits can be made through the Solid Modify menu as necessary. When you are ready to save the object as a file, ensure it is selected. From the topmost menu, open the File dropdown and **select Export**.<br>
     <img src="images/act3-11.png" alt="export option" style="width:500px">
 - Rename your object if needed and select the appropriate file type. For use in other 3D programs, save as a .obj file. For 3D printing, save as a .stl file. 
 
