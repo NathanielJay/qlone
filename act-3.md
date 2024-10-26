@@ -26,7 +26,7 @@ You can obtain a free license to use Fusion 360 for personal use. Go to the Auto
     <img src="images/act3-3.png" alt="example" style="width:500px">
 4. Remove excess elements in your file
 - Use the movement axes to position the object mesh vertically. Select **Plane Cut** from the toolbar. **Click your mesh** to select it as the object to be cut. 
-    <img src="images/act3-4.png" alt="movement axe" style="width:500px">
+    <img src="images/act3-4.png" alt="movement axe">
 - Three planes will appear. If your object is oriented vertically, select the horizontal plane. A large disc will appear at the midpoint of your object. From the Plane Cut menu on the right **click Flip** to invert which half of the mesh is being removed.
 <img src="images/act3-5.png" alt="flip sign" style="width:500px">
 <img src="images/act3-6.png" alt="image flipped" style="width:500px">
