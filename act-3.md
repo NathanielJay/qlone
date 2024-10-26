@@ -30,7 +30,7 @@ You can obtain a free license to use Fusion 360 for personal use. Go to the Auto
 - Three planes will appear. If your object is oriented vertically, select the horizontal plane. A large disc will appear at the midpoint of your object. From the Plane Cut menu on the right **click Flip** to invert which half of the mesh is being removed.
 <img src="images/act 3-5.png" alt="flip sign" style="width:500px">
 <img src="images/act 3-6.png" alt="image flipped" style="width:500px">
-- Adjust the height and angle of the slicing tool to your satisfaction. Rotate your view of the object using **Shift + holding down the scroll wheel** to ensure the slicing isn’t removing too much material.
+- Adjust the height and angle of the slicing tool to your satisfaction. Rotate your view of the object using **Shift + holding down the scroll wheel** to ensure the slicing isn’t removing too much material.<br>
     <img src="images/act 3-7.png" alt="rotated view" style="width:500px">
 5. Close a hole in your model 
 - From the **tool menu** on the right, **change the Fill Type to Uniform**. This will close the gap created by trimming and allow the mesh to be converted to a solid object. **Select OK** to complete the trim. Rotate the object to see the filled gap.<br>
