@@ -19,37 +19,9 @@ To increase your chances of successful scans with these tools, we recommend that
      <img src="images/rotation.gif">
 Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
 
-**_Kiri Engine: Scanner 3D_** (free for download for IOS and Android devices, and available as web-based)
-This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan.
-    
-{::options parse_block_html='true' /}
-<details>
-<summary>
-How to use Kiri
-</summary>
 
-1. Download the appropriate version of the app for your device, or open the [web-based version of Kiri](https://www.kiriengine.app/web-version/Upload){:target="_blank"}. Create an account or log in.
-2. If using the cellphone application, you will have to take the photos in the app, rather than in your default camera application. If working with the web-based platform, you will need to take photos with a camera of your choice, to then upload the images.
-3. Upload the images to the Kiri platform, choose the quality for your model, we recommend a high number of polycount.
-4. If you included photos of the bottom of your object in your photos, by changing the orientation of the object during the scan, select **Auto Object Masking**.
-5. Choose your export type based on your needs, .stl is accepted by our online submission form for 3D printing.
-6. Click on **Create 3D model now**. This will start the processing of your 3D scan, once processing is completed, your 3D model will be available to see and manipulate.
-   - If the result differs from what you were expecting, refer to the tips and tricks for 3D scanning in activity 1.
-7. See Animated Gif for the next steps. First Click on **Crop**.
-8. Next the reset bar will appear at the bottom of the screen. Rotate it by sliding the curser to the left side and rotate it approximately 175 degrees.
-9. Then do the move the cursor to the left side for the boundary setting.
-10. Finally save your edits, by clicking **save edit** and don't forget to select the **fill holes** toggle.
-    <button onclick="toggle('gif2')">Show/Hide Animation</button>
-     <div id="gif2">
-     <img src="images/kuri-crop.gif">
-     </div>
-</details>
-
-{::options parse_block_html='false'/}
-
-<br>
-
-**_Maker World AI Scanner_** (free web-based platform)
+## Maker World AI Scanner 
+<br>(free web-based platform)
 
 {::options parse_block_html='true' /}
 <details>
