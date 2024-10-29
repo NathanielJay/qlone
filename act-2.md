@@ -144,8 +144,6 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
     
     -   Publish your blog post!
 
-</details>
-
 <script>  
 
     function toggle(input) {
