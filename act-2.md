@@ -86,7 +86,6 @@ This tool is ideal for objects where all sides of the objects must be scanned ac
     
     <img src="images/basics/5-e.png" alt="smooth out" style="width:720px;">
 
-</details>
 
 <script>  
 
