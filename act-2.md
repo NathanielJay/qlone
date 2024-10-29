@@ -21,15 +21,10 @@ To rotate the object you want to scan, we recommend that you use a turn table if
      <img src="images/glue-cat.gif"><br>
 Take your time during the scanning phase, as this will highly impact how successful your scan is. **We recommend you take about 100 high-quality photos **of the object to scan. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. If taking a video, ensure that you rotate slowly the object.<br> 
      <img src="images/spin-cat.gif">  
-**_PhotoCatch_** (available on some iPhones and recent Mac computers in the Apple Silicon Series)
+## PhotoCatch
+<br>(available on newer iPhones and Mac computers with Apple Silicon)
 
 This software is the quickest processing option listed in this document.
-
-{::options parse_block_html='true' /}
-<details>
-<summary>
-How to use PhotoCatch
-</summary>
 
 1. Photocatch allows both videos and photos to be processed and can be taken directly on the application or uploaded from your camera roll. Choose the method that works best for you and your equipment. 
 2. To start, click on **Create a 3D Model**, you can then choose to use a video or photos, this will then prompt you to either take the photos/video or upload your media content from your gallery. Review the photos or video, if you are satisfied, click on **Looks good**.
@@ -41,12 +36,6 @@ How to use PhotoCatch
 - Once processing is completed, click on your project and using the **share button** download the file as an .obj if you want to 3D print. 
 
 **_Qlone_** (available for free on IOS devices)
-
-{::options parse_block_html='true' /}
-<details>
-<summary>
-How to use Qlone
-</summary>
 
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan by allowing a supplementary scan. 
 
