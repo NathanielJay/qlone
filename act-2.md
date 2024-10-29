@@ -13,35 +13,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 This activity will give you several options of software, apps, and web-based options for 3D scanning. Based on your device, choose the software that fits you best. 
 
-**Softwares that work best with the camera rotating around the object**
-
-To increase your chances of successful scans with these tools, we recommend that you take photos and videos in a 360° motion around your object **3 times** or more. Each rotation around your object must be done at a consistent height and photos must overlap at least 50% to be most successful, ideally, you would rotate about 10° to 20° for each photo. **In total, you should have about 100 photos of your object from all angles**.  If taking a video, ensure that you rotate slowly around the object.<br>
-     <img src="images/rotation.gif">
-Some platforms use the background in your photos to help build the 3D model, it is not necessary to have a completely solid colour background, however, to increase your chances of success, avoid scanning in an area where the background might change frequently (it is best to avoid backgrounds where people or vehicles might be moving in the space).
-
-
-## Maker World AI Scanner 
-<br>(free web-based platform)
-
-{::options parse_block_html='true' /}
-<details>
-<summary>
-How to use Maker World AI Scanner
-</summary>
-
-1. Take a high-quality video of your object, you should rotate around your object at least 3 times, at different angles. Make sure to complete the rotation fully before changing the camera angle. 
-2. Open [Maker World AI Scanner](https://makerworld.com/en/makerlab/ai-scanner){:target="_blank"}. You do not need an account to use this platform.
-3. Upload the video of your object using drag-and-drop or the import button.
-4. Select either **General Mode** or **Portrait Mode** based on the object you are scanning. and Click on **Next Step**.
-5. The software will then try to identify the target object based on the first frame of your video.
-   - If the software chose the wrong object, click on **Remove mask** and click on the areas that are not part of your object, light red dots will appear.
-   - Then click on **Add mask** and click the object you want scanned. You might need to select multiple areas of your model. Light green dots will appear and a blue outline will be created around the object.
-   - Once satisfied, click on **Create Model**.
-6. Your model will now be sent to the Queue for processing. An estimated wait time will be displayed.
-7. Once completed, your model will be available to see and download. Download as an .stl file if you want to have it 3D printed.
-
-</details>
-**Softwares that work best when the object is rotated**
+## Softwares that work best when the object is rotated
 
 To increase your chances of successful scans with these tools, we recommend that you **take your photos or video using a high-contrast, solid background.** If needed, you can borrow the DSC's lightbox to scan your objects. 
 
