@@ -35,7 +35,8 @@ This software is the quickest processing option listed in this document.
 - On the application, multiple projects can be processed simultaneously, while on the Mac platform, users are limited to one model at a time using the free version. However, we have found that the Mac platform often creates higher-quality results in less time. 
 - Once processing is completed, click on your project and using the **share button** download the file as an .obj if you want to 3D print. 
 
-**_Qlone_** (available for free on IOS devices)
+## Qlone
+<br>(available for free on IOS devices)
 
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan by allowing a supplementary scan. 
 
