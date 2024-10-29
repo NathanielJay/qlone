@@ -1,4 +1,4 @@
-# Introduction to 3D Scanning With Qlone
+# Introduction to 3D Scanning
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/qlone/
