@@ -36,7 +36,7 @@ This software is the quickest processing option listed in this document.
 - Once processing is completed, click on your project and using the **share button** download the file as an .obj if you want to 3D print. 
 
 ## Qlone
-<br>(available for free on IOS & Android devices)
+<br>(available for free on IOS devices)
 
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan by allowing a supplementary scan. 
 
