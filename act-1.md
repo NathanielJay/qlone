@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 # 3D Scanning Tips and Tricks
      
-1.  **Low-Quality Scans:**
+1. **Low-Quality Scans:**
     
     <img src="images/intro/1-b.png" alt="scanning an object" style="float:right;width:300px;margin-left:10px;">
     
@@ -17,13 +17,13 @@ parent: Workshop Activities
 
 2. **Shiny Objects:** Shiny objects don’t tend to scan well because they reflect light, and most 3D scanning software struggles with reflected light. When possible, adding a thin layer of baby powder on the shinny surface can help reduce errors.
     
-3. _If you are using the Qlone app_
+**_If you are using the Qlone app_**
 
-**AR Dome Keeps Disappearing:**  
+3. **AR Dome Keeps Disappearing:**  
 - If the AR dome disappears, one of the most common reasons for this is that the app cannot see at least three of the four corners of the checkered scanning mat.
 - Move back from the scanning mat, and the AR dome should reappear once at least three corners are in view.
     
-**Second Scan with Different Orientation:** 
+4. **Second Scan with Different Orientation:** 
 - Another trick is to make sure that you do a second scan with a different orientation of the object immediately after the first scan. This is done by pressing the Blue Button on the right side of the screen after your first scan is complete.
    
     <img src="images/intro/2-e.png" alt="workflow" style="width:720px;">
